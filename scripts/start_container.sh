@@ -6,4 +6,4 @@ docker pull krishna6899/simple-python-flask-app
 
 
 # Run the Docker image as a container
-docker run -d -p 5000:5000 krishna6899/simple-python-flask-app
+docker run -d -p 5000:8000 krishna6899/simple-python-flask-app
